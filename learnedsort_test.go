@@ -677,7 +677,7 @@ func TestBucketizeReorder(t *testing.T) {
 		copy(copy11, copy1)
 		sort.Float64s(copy11)
 		misplaceCount := 0
-		for i, _ := range copy1 {
+		for i := range copy1 {
 			if copy1[i] != copy11[i] {
 				misplaceCount++
 			}
