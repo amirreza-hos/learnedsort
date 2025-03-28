@@ -3,6 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/amirreza-hos/learnedsort.svg)](https://pkg.go.dev/github.com/amirreza-hos/learnedsort)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/amirreza-hos/learnedsort)](https://goreportcard.com/report/github.com/amirreza-hos/learnedsort)
+<meta name="google-site-verification" content="iIlZK_ZQ_Khbe8nbOjGw-_dgs1E4xqZWtrhWEQ_NcFE" />
 
 A Go module to **sort** your float64 arrays **faster** than the standard sort, using the LearnedSort algorithm. Checkout **[LearnedSort Algorithm](#learnedsort-algorithm)** section for more information.
 
